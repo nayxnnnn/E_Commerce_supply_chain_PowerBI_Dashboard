@@ -1,0 +1,9 @@
+Plant_ID,Plant,Plant_Type,Plant_Name,PlantCity,PlantPostal_Code,PlantStreet
+1,ANT1,Production,Antwerp Production,Antwerp,2030,Scheldelaan
+2,WRO1,Production,Wroclaw Production,Wroclaw,54-202,Legnicka
+3,LYO1,Production,Lyon Production,Lyon,69160,Av. Mathieu Misery
+4,ANT2,Distribution Center,Antwerp DC,Antwerp,2030,Scheldelaan
+5,WRO2,Distribution Center,Wroclaw DC,Wroclaw,54-202,Legnicka
+6,LYO2,Distribution Center,Lyon DC,Lyon,69160,Av. Mathieu Misery
+7,BIR2,Distribution Center,Birmingham DC,Birmingham,B14 7PQ,Howard Rd
+8,GOT2,Distribution Center,Gothenburg DC,Gothenburg,418 78,Assar Gabrielsson's Way
