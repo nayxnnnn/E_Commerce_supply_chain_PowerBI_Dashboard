@@ -1,10 +1,9 @@
-# E_Commerce_supply_chain-_Power BI_Dashboard
+# E_Commerce_supply_chain_Power BI_Dashboard
 
 
 ##  Project Overview
 The **Ecom Supply Chain Dashboard** is a data-driven analytics solution designed to optimize operations across **sales, purchasing, inventory, and vendor management**.  
 Built entirely in **Power BI**, the project integrates multiple Excel datasets to provide real-time insights on **sales trends, inventory health, and supplier performance**.
-
 With a large dataset of **1,00,000+ sales records** and **20,000+ purchase transactions**, this dashboard enables decision-makers to monitor KPIs, identify bottlenecks, and improve forecasting accuracy throughout the supply chain network.
 
 ---
@@ -21,7 +20,6 @@ With a large dataset of **1,00,000+ sales records** and **20,000+ purchase trans
 ##  Dashboard Analysis & Insights
 
 ###  Sales Overview
-Gain a comprehensive view of sales operations through multiple perspectives:
 - **Sales Volume by Plant** – Compare total output from each production location  
 - **Sales Volume by Product** – Identify top-selling and low-performing products  
 - **Cumulative Sales** – Track progressive growth of sales volume over time  
@@ -30,7 +28,6 @@ Gain a comprehensive view of sales operations through multiple perspectives:
 ---
 
 ###  Inventory & Plant Insights
-Track stock status, movement, and plant performance:
 - **On-shelf Inventory vs. In-transit Inventory by Plant** – Monitor availability and shipments  
 - **Total Inventory by Month** – Understand inventory buildup and consumption patterns  
 - **Total Inventory & Total Sales Orders by Plant** – Evaluate plant efficiency and sales alignment  
@@ -39,17 +36,10 @@ Track stock status, movement, and plant performance:
 ---
 
 ###  Vendor Performance
-Assess supplier reliability and purchasing effectiveness:
 - **Vendor Performance Table** – Detailed view of on-time rates, delays, and order volumes  
 - **Vendor Volume by Plant and Vendor** – Understand contribution and dependency  
 - **Average Delivery Delay by Month** – Spot trends and performance gaps  
 - **Actual vs. Forecast Quantity by Product** – Evaluate forecast accuracy and procurement planning  
-
----
-
-###  Performance Trends
-Visualize key operational trends:
-- **Actual vs. Forecast Quantity by Year & Month** – Analyze forecast precision  
 - **Monthly Trend Analysis** – Identify seasonal variations and delivery patterns
   
 ---
@@ -72,13 +62,11 @@ Visualize key operational trends:
 - Created DAX measures for major KPIs
 
 ###  Dashboard Design
-Developed an interactive Power BI dashboard with:
 - Page navigation and slicers for year/month filters  
 - Dedicated pages for:
   - **Sales Overview**  
   - **Inventory & Plant Insights**  
   - **Vendor Performance**  
-  - **Performance Trends**
 
 ---
 
@@ -92,17 +80,19 @@ Developed an interactive Power BI dashboard with:
 ---
 
 ##  Skills Applied
-- Data Cleaning & ETL in Power Query  
+- Data Cleaning 
+- ETL in Power Query  
 - Data Modeling (Star Schema Design)  
 - DAX Calculation for KPIs  
 - Dashboard & Visual Design in Power BI  
-- Analytical Thinking & Business KPI Development  
+- Analytical Thinking
+-  Business KPI Development  
 - Performance Analysis for Supply Chain Optimization  
 
 ---
 
 ##  Outcome
-This dashboard provides actionable insights for supply chain leaders to:
+
 - Track **sales and delivery performance** in real time  
 - Identify **underperforming vendors or overstocked plants**  
 - Improve **forecast accuracy and purchase planning**  
@@ -116,13 +106,6 @@ It highlights the power of business intelligence in improving **supply chain vis
 
 ---
 
-##  Dashboard Preview
-| Dashboard Page | Description |
-|----------------|--------------|
-| **Sales Overview** | Analyze sales trends, breakdowns, and cumulative performance |
-| **Inventory & Plant Insights** | Track stock movement and plant-level KPIs |
-| **Vendor Performance** | Measure supplier reliability and forecast accuracy |
-| **Performance Trend** | Monitor actual vs. forecast trends across time |
 
 ---
 
