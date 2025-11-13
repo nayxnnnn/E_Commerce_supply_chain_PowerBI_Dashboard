@@ -5,6 +5,8 @@
 The **Ecom Supply Chain Dashboard** is a data-driven analytics solution designed to optimize operations across **sales, purchasing, inventory, and vendor management**.  
 Built entirely in **Power BI**, the project integrates multiple Excel datasets to provide real-time insights on **sales trends, inventory health, and supplier performance**.
 With a large dataset of **1,00,000+ sales records** and **20,000+ purchase transactions**, this dashboard enables decision-makers to monitor KPIs, identify bottlenecks, and improve forecasting accuracy throughout the supply chain network.
+SunCharge specializes in manufacturing eco-friendly car batteries for electric vehicles and home batteries. Ensuring the smooth operation of our production process and timely delivery of our products to customers is paramount.forecasts based on sales projections, enabling us to anticipate the demand for batteries in the coming months.
+
 
 ---
 
@@ -90,6 +92,10 @@ With a large dataset of **1,00,000+ sales records** and **20,000+ purchase trans
 - Performance Analysis for Supply Chain Optimization  
 
 ---
+###  Data Modeling ( ERD Diagram )
+![ERD](images/<img width="601" height="487" alt="DATA model powerbi" src="https://github.com/user-attachments/assets/b5d82492-9e15-4a8d-a485-9d2638d4e171" />
+)
+
 
 ##  Outcome
 
@@ -106,11 +112,6 @@ It highlights the power of business intelligence in improving **supply chain vis
 
 ---
 
-
----
-
-## 🔗 View Dashboard
-👉 *(Upload your Power BI dashboard link here — e.g., Power BI Service or PDF export)*
 
 ---
 
